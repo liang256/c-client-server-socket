@@ -8,8 +8,8 @@ The full socket tutorial is [here](https://www.cs.rpi.edu/~moorthy/Courses/os98/
 ### instructions
 1. compile programs
 ```
-gcc -o server.c
-gcc -o client.c
+gcc -o server server.c
+gcc -o client client.c
 ```
 2. open two terminal tabs for each one
 ```
